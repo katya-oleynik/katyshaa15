@@ -1,0 +1,16 @@
+@font-face {
+body }
+body {
+background-color: #7AC7D9; 
+margin-left: 20%; 
+margin-right: 20%;
+border: 2px dotted black;
+padding: 10px; font-family: sans-serif;
+}
+
+blockquote.q {
+color:#496B00;
+border-left: 4px solid #0B16DD;
+font-style: 16px; 
+margin-left: 0;
+}
